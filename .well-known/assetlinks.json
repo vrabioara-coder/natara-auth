@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.natara",
+      "sha256_cert_fingerprints": [
+        "16:9F:56:CD:3A:CF:36:67:C8:F7:BD:DB:FC:DE:33:EB:E1:91:E2:C9:75:9A:C0:E4:5B:C0:9A:7E:FB:02:C6:D5"
+      ]
+    }
+  }
+]
